@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Junior Python Developer | Database Enthusiast | AI/ML Explorer<br>Building intelligent solutions, one commit at a time. Always learning, always shipping. 🚀
+🐍 Junior Python Developer | AI/ML Explorer<br>Building intelligent solutions, one commit at a time. Always learning, always shipping. 🚀
 
 
 ## 🌐 Socials:
